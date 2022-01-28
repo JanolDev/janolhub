@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jazda Gang Official</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body style="background-image: url(img/tlo.png);">
+    <div id="logo">
+        <img class="avatar" src="img/logo.png" onclick="window.location.reload();">
+    </div>
+    <center>
+
+        <div class="title">
+
+            <h1 style="font-size: 50px;">Jazda Gang - Official</h1>
+
+
+        </div>
+    </center>
+
+    <div class="nav">
+
+
+        <!-- <text style="font-size: 20px;"> Głowna || Info || Historia || Formularz</text> -->
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="index.html" style="font-size: 20px;"> Głowna </a> &nbsp;
+        <a href="info.html" style="font-size: 20px; "> Info </a> &nbsp;
+        <a href="index.html" style="font-size: 20px"> Historia </a> &nbsp;
+        <a href="index.html" style="font-size: 20px"> Formularz </a> &nbsp;
+
+    </div>
+
+
+    <!-- Cała zawartość strony poniżej -->
+    <br><br>
+    <div id="MainSite">
+        <center>
+            <h1> Text Goes Here... </h1>
+
+        </center>
+
+    </div>
+
+</body>
+
+</html>
